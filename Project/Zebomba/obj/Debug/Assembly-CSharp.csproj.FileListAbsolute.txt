@@ -1,0 +1,2 @@
+F:\Tr\Zebomba\obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
+F:\Tr\Zebomba\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
